@@ -1,0 +1,8 @@
+To run application:
+
+use `go run main/main.go` command
+
+latitude, longitude, and apiKey are passed in via URL query parameters as:
+    - lat: float64
+    - lon: float64
+    - apiKey: string
